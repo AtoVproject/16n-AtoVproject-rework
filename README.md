@@ -1,6 +1,7 @@
 16n Berlin Modular Edition
 
 This is an hardware modified version of the original 16n.
+
 https://github.com/16n-faderbank/16n (this is also where you'll find the firmware)
 
 The 16n is a fader bank sending CV, I2C, MIDI jack compatible with all standards, USB MIDI (compatible PC, Mac, iPad etc...) , making it the absolute ultimate controller for any of your hardware and software all in one! 
@@ -9,6 +10,7 @@ https://www.youtube.com/watch?v=edriUxDgTsg
 
 
 Modifications compared to the original are :
+
 -Isolated USB power supply. This greatly reduce the noise on the outputs. (Measured at 6mV 
 
 -Selectable 5 or 10V outputs: Each outputs will have a jumper on the back allowing you to decide whether this output sends 10 or 5V (even when using 5V USB power supply)
