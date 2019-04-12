@@ -21,7 +21,7 @@ Modifications compared to the original are :
 
 -I2C connector on the PCB to simplify wirering to modules like the ER301
 
--Changed
+-Changed the slider model to a BOURNS due to a shortage of ALPS sliders (both version of the board will be available)
 
 
 Credits
