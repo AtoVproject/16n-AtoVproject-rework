@@ -27,7 +27,11 @@ Modifications compared to the original are :
 
 
 Credits
+
 Based on original work by Brian Crabtree and Sean Hellfritsch.
+
 Minijack MIDI, I2C circuitry and CV outputs by Tom Armitage.
+
 Firmware by Brian Crabtree, Tom Armitage, and Brendon Cassidy
+
 Circuit and PCB update by AtoVproject aka Arthur Gibert
