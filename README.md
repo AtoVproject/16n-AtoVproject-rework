@@ -1,7 +1,7 @@
 16n Berlin Modular Edition
 
-This is an modified version of the original 16n
-https://github.com/16n-faderbank/16n
+This is an hardware modified version of the original 16n.
+https://github.com/16n-faderbank/16n (this is also where you'll find the firmware)
 
 The 16n is a fader bank sending CV, I2C, MIDI jack compatible with all standards, USB MIDI (compatible PC, Mac, iPad etc...) , making it the absolute ultimate controller for any of your hardware and software all in one! 
 
@@ -20,6 +20,8 @@ Modifications compared to the original are :
 -The footprint of the jack is compatible for banana connectors! So you'll be able to use it with your Serge or Buchla system.
 
 -I2C connector on the PCB to simplify wirering to modules like the ER301
+
+-Changed
 
 
 Credits
