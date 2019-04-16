@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=edriUxDgTsg
 
 Modifications compared to the original are :
 
--Isolated USB power supply. This greatly reduce the noise on the outputs. (Measured at 6mV 
+-Isolated USB power supply. This greatly reduce the noise on the outputs. (Measured at 6mV)
 
 -Selectable 5 or 10V outputs: Each outputs will have a jumper on the back allowing you to decide whether this output sends 10 or 5V (even when using 5V USB power supply)
 
