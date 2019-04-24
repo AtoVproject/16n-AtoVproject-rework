@@ -1,4 +1,4 @@
-16n Berlin Modular Edition
+<b>16n Berlin Modular Edition<b>
 
 <img src="https://github.com/AtoVproject/16n-AtoVproject-rework/blob/master/16n%20BM.jpg?raw=true">
 
