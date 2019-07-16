@@ -1,0 +1,3 @@
+Gerbers and eagle design files
+
+Two versions of the board are available. One for high end ALPS faders (which are expensive and quite often out of stock) and another for lower cost Brouns faders (1/3 of the price and more redily available)
