@@ -4,6 +4,10 @@
 
 This is an hardware modified version of the original 16n.
 
+Contact me at AtoVproject (at) gmail.com if you want a PCB/panel/case set
+
+BOM in the PCB folder
+
 https://github.com/16n-faderbank/16n (this is also where you'll find the firmware)
 
 <h2>The concept</h2>
