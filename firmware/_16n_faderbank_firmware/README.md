@@ -2,6 +2,12 @@
 
 Written for Teensy 3.2.
 
+This firmware has been midified slightly to work with the ER301:
+
+<h2>Modifications :</h2>
+-15 second delay in the setup to allow the ER301 to turn on before the i2c connection is initiated (important if the two devices are turned on at the same time)
+-16n set as Master in i2c connection as default.
+
 ## Requirements
 
 - Latest Teensyduino install.
