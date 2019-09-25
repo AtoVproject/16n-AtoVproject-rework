@@ -20,9 +20,9 @@ https://www.youtube.com/watch?v=edriUxDgTsg
 
 -Updated power section
   Isolated USB power supply. Proper voltage reference. Upgraded filtering.
-    This greatly reduce the noise on the outputs. (Measured at 6mV)
+    This greatly reduce the noise on the outputs. (Measured at less than 6mV)
 
--Selectable 5 or 10V outputs: Each outputs will have a jumper on the back allowing you to decide whether this output sends 10 or 5V (even when using 5V USB power supply)
+-Selectable 5 or 10V outputs: Each can be configured to output either 10V or 5V using a dip switch on the back of the module (even when using 5V USB power supply)
 
 -Outputs facing upwards: The outputs will be directly on the front panel reducing the footprint and making outputs much more accessible.
 
@@ -32,7 +32,7 @@ https://www.youtube.com/watch?v=edriUxDgTsg
 
 -I2C connector on the PCB to simplify wirering to modules like the ER301
 
--Changed the slider model to a BOURNS due to a shortage of ALPS sliders (both version of the board will be available)
+-Changed the slider model BOURNS due to a shortage of ALPS sliders (both version of the board will be available). As a bonus they are also 1/3 of the price of the ALPS faders.
 
 
 <h2>Credits</h2>
