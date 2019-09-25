@@ -4,7 +4,7 @@ Two versions of the board are available. One for high end ALPS faders (which are
 
 <h2>Mouser Carts :</h2>
 
-These are complete carts to have all the parts to make the build. 
+These are complete carts to have all the parts to make the build. They are valid for the latest revision of the boards (v1.4)
 Resistors and capacitors very small so I stronly recommand ordering more (little tip: order resistors and capacitors amount and the next price break this will make you save a few cents)
 
 Bourns Version
