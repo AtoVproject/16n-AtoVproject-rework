@@ -26,7 +26,7 @@ https://www.youtube.com/watch?v=edriUxDgTsg
 
 -Outputs facing upwards: The outputs will be directly on the front panel reducing the footprint and making outputs much more accessible.
 
--Eurorack compatible: You would be able to mount the 16n as a 50hp module in your rack and power it from your own power supply.
+-Eurorack compatible: You would be able to mount the 16n as a 50hp module in your rack and power it from your own power supply. (12V =0.042mA, -12V=0mA)
 
 -The footprint of the jack is compatible for banana connectors! So you'll be able to use it with your Serge or Buchla system.
 
