@@ -8,6 +8,7 @@ This firmware has been midified slightly to work with the ER301:
 -15 second delay in the setup to allow the ER301 to turn on before the i2c connection is initiated (important if the two devices are turned on at the same time)
 
 -16n set as Master in i2c connection as default.
+    <h2>This firmware will not work if R49 and R50 at not installed!!!</h2>
 
 ## Requirements
 
