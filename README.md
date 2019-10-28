@@ -22,18 +22,17 @@ https://www.youtube.com/watch?v=edriUxDgTsg
   Isolated USB power supply. Proper voltage reference. Upgraded filtering.
     This greatly reduce the noise on the outputs. (Measured at less than 6mV)
 
--Selectable 5 or 10V outputs: Each can be configured to output either 10V or 5V using a dip switch on the back of the module (even when using 5V USB power supply)
+-Selectable 5v or 10V outputs: Each can be configured to output either 10V or 5V using a dip switch on the back of the module (even when using 5V USB power supply)
 
 -Outputs facing upwards: The outputs will be directly on the front panel reducing the footprint and making outputs much more accessible.
 
--Eurorack compatible: You would be able to mount the 16n as a 50hp module in your rack and power it from your own power supply. (12V =0.042mA, -12V=0mA)
+-Eurorack compatible: You would be able to mount the 16n as a 50hp module in your rack and power it from your own power supply. (+12V=42mA, -12V=0mA)
 
 -The footprint of the jack is compatible for banana connectors! So you'll be able to use it with your Serge or Buchla system.
 
--I2C connector on the PCB to simplify wirering to modules like the ER301
+-I2C connector on the PCB to simplify connection to modules like the ER301
 
--Changed the slider model BOURNS due to a shortage of ALPS sliders (both version of the board will be available). As a bonus they are also 1/3 of the price of the ALPS faders.
-
+-Two versions of the board are available one with high quality ALPS faders and another one with Bourns mid range faders (1/3 of the price of the ALPS).
 
 <h2>Credits</h2>
 

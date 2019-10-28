@@ -78,8 +78,10 @@ int activeMode = 0;
  */
 void setup()
 {
+#ifdef MASTER
   // wait for the er301 to start
 delay(15000);
+#endif
 
 #ifdef DEBUG
   while (!Serial)
