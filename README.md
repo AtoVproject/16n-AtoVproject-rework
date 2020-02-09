@@ -2,7 +2,7 @@
 
 <img src="https://github.com/AtoVproject/16n-AtoVproject-rework/blob/master/16n%20BM.jpg?raw=true">
 
-This is an hardware modified version of the original 16n.
+This is an hardware modified version of the original 16n. https://github.com/16n-faderbank/16n
 
 Bourns compatible PCBs Panels and cases are available @ https://pushermanproductions.com/product/16n-euro-version-pcb-and-anodized-aluminium-black-panel/
 
@@ -10,7 +10,6 @@ You can also contact me at AtoVproject (at) gmail.com if you want a ALPS compati
 
 BOM in the PCB folder
 
-https://github.com/16n-faderbank/16n (this is also where you'll find the firmware)
 
 <h2>The concept</h2>
 The 16n is a fader bank sending CV, I2C, MIDI jack compatible with all standards, USB MIDI (compatible PC, Mac, iPad etc...) , making it the absolute ultimate controller for any of your hardware and software all in one! 
