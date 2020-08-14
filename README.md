@@ -10,9 +10,16 @@ You can also contact me at AtoVproject (at) gmail.com if you want a ALPS compati
 
 BOM in the PCB folder
 
+Please download the firmware from the original project https://github.com/16n-faderbank/16n/wiki/Firmware:-installation-instructions
+
 
 <h2>The concept</h2>
-The 16n is a fader bank sending CV, I2C, MIDI jack compatible with all standards, USB MIDI (compatible PC, Mac, iPad etc...) , making it the absolute ultimate controller for any of your hardware and software all in one! 
+
+The 16n Faderbank is aimed a solving a problem very specific to modular synthesis. As a patch is getting more and more complex a forest of cables has grown over your system before you know it. The 16n allows you to take the control from the modular into a very ergonomic controller that integrates perfectly into a modern studio.
+
+The 16n is a faderbank sending CV, I2C, MIDI jack compatible with all standards, USB MIDI (compatible PC, Mac, iPad etc...) , making it the absolute ultimate controller for any of your hardware and software all in one! 
+
+As one of the Berlin Modular community, I decided to make a redesign of the 16n faderbank following the suggestions and desires of our members. The 16n Berlin Modular Edition is the result of this collaboration.
 
 https://www.youtube.com/watch?v=edriUxDgTsg
 
