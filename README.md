@@ -19,7 +19,7 @@ The 16n Faderbank is aimed a solving a problem very specific to modular synthesi
 
 The 16n is a faderbank sending CV, I2C, MIDI jack compatible with all standards, USB MIDI (compatible PC, Mac, iPad etc...) , making it the absolute ultimate controller for any of your hardware and software all in one! 
 
-As one of the Berlin Modular community, I decided to make a redesign of the 16n faderbank following the suggestions and desires of our members. The 16n Berlin Modular Edition is the result of this collaboration.
+As one of the Berlin Modular community organisers, I decided to make a redesign of the 16n faderbank following the suggestions and desires of our members. The 16n Berlin Modular Edition is the result of this collaboration.
 
 https://www.youtube.com/watch?v=edriUxDgTsg
 
