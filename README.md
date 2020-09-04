@@ -4,6 +4,7 @@
 
 This is an hardware modified version of the original 16n. https://github.com/16n-faderbank/16n
 
+Fully assembled unit with high end enclosure and faders available @ https://schneidersladen.de/de/atovproject-16n-atovproject-rework
 Bourns compatible PCBs Panels and cases are available @ https://pushermanproductions.com/product/16n-euro-version-pcb-and-anodized-aluminium-black-panel/
 
 You can also contact me at AtoVproject (at) gmail.com if you want a ALPS compatible PCB/panel/case set. I will stock some from time to time.
