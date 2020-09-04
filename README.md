@@ -47,6 +47,7 @@ https://www.youtube.com/watch?v=edriUxDgTsg
 <h2>Credits</h2>
 
 Based on original open source work by Brian Crabtree, Sean Hellfritsch, Tom Armitage and Brendon Cassidy. Circuit design update by AtoVproject aka Arthur Gibert
+
 As stated by the original designers the original 16n folows a CC-BY-SA licence therefore the 16n AtoVproject is and will always remain entirely open source following the same licence.
 
 If you are making modification to this design, you must correctly credit everyone involved in the initial version, and also share your own changes with the similar license. So you can’t make a fork of 16n or the 16n AtoVproject redesign that you don’t open-source yourself.
