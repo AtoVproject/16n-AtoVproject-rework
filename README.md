@@ -20,7 +20,7 @@ The 16n Faderbank is aimed a solving a problem very specific to modular synthesi
 
 The 16n is a faderbank sending CV, I2C, MIDI jack compatible with all standards, USB MIDI (compatible PC, Mac, iPad etc...) , making it the absolute ultimate controller for any of your hardware and software all in one! 
 
-As one of the Berlin Modular community organisers, I decided to make a redesign of the 16n faderbank following the suggestions and desires of our members. The 16n Berlin Modular Edition is the result of this collaboration.
+This unit was redesigned for a DIY workshop organised in the Berlin Modular community. The redesign was done following the wishes and desires of the community. The 16n AtoVproject redesign is the result of this initiative. 
 
 https://www.youtube.com/watch?v=edriUxDgTsg
 
@@ -45,10 +45,9 @@ https://www.youtube.com/watch?v=edriUxDgTsg
 
 <h2>Credits</h2>
 
-Based on original work by Brian Crabtree and Sean Hellfritsch.
+Based on original open source work by Brian Crabtree, Sean Hellfritsch, Tom Armitage and Brendon Cassidy. Circuit design update by AtoVproject aka Arthur Gibert
+As stated by the original designers the original 16n folows a CC-BY-SA licence therefore the 16n AtoVproject is and will always remain entirely open source following the same licence.
 
-Minijack MIDI, I2C circuitry and CV outputs by Tom Armitage.
+If you are making modification to this design, you must correctly credit everyone involved in the initial version, and also share your own changes with the similar license. So you can’t make a fork of 16n or the 16n AtoVproject redesign that you don’t open-source yourself.
 
-Firmware by Brian Crabtree, Tom Armitage, and Brendon Cassidy
 
-Circuit and PCB update by AtoVproject aka Arthur Gibert
