@@ -1,6 +1,6 @@
 <h1>16n AtoVproject Rework</h1>
 
-<img src="https://github.com/AtoVproject/16n-AtoVproject-rework/blob/master/16n%20BM.jpg?raw=true">
+<img src="https://raw.githubusercontent.com/AtoVproject/16n-AtoVproject-rework/master/front%20white-web.png">
 
 This is an hardware modified version of the original 16n. https://github.com/16n-faderbank/16n
 
