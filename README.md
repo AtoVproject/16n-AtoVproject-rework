@@ -2,6 +2,10 @@
 
 <img src="https://raw.githubusercontent.com/AtoVproject/16n-AtoVproject-rework/master/front%20white-web.png">
 
+Product page: https://atovproject.de/products/16nrework
+
+Manual: https://atovproject.de/manuals/16nrework
+
 This is an hardware modified version of the original 16n. https://github.com/16n-faderbank/16n
 
 Fully assembled unit with high end aluminium enclosure, high end faders and set of cables available @ https://schneidersladen.de/de/atovproject-16n-atovproject-rework
