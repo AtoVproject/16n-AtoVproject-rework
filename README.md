@@ -12,8 +12,6 @@ Fully assembled unit with high end aluminium enclosure, high end faders and set 
 
 Bourns compatible PCBs Panels and cases are available @ https://pushermanproductions.com/product/16n-euro-version-pcb-and-anodized-aluminium-black-panel/
 
-You can also contact me at info@atovproject.de if you want a ALPS compatible PCB/panel/case set. I will stock some from time to time.
-
 BOM in the PCB folder
 
 Please download the firmware from the original project https://github.com/16n-faderbank/16n/wiki/Firmware:-installation-instructions
