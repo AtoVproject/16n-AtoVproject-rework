@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.6.2">
+<eagle version="9.3.2">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -165,10 +165,10 @@
 <layer number="255" name="routoute" color="7" fill="1" visible="no" active="yes"/>
 </layers>
 <board>
-<fusionsync huburn="a.cGVyc29uYWw6dWUyYjlmM2U1" projecturn="a.cGVyc29uYWw6dWUyYjlmM2U1IzIwMTkwMzExMTgxNDI4MzAx" f3durn="urn:adsk.wipprod:dm.lineage:kLke75XaQZeyTvtmVS8pag" pcbguid="91f2c277-dc5a-4600-ac77-e4717baa7631" lastpulledtime="" lastsyncedchangeguid="a73b761f-1733-ebc2-1146-d443efa45c0a" latestrevisionid="" lastsyncedrevisionid="" lastboardhashguid="" lastpushedtime="" linktopcb3d="false"/>
+<fusionsync huburn="a.cGVyc29uYWw6dWUyYjlmM2U1" projecturn="a.cGVyc29uYWw6dWUyYjlmM2U1IzIwMTkwMzExMTgxNDI4MzAx" f3durn="urn:adsk.wipprod:dm.lineage:kLke75XaQZeyTvtmVS8pag" pcbguid="91f2c277-dc5a-4600-ac77-e4717baa7631" lastpulledtime="" lastsyncedchangeguid="a73b761f-1733-ebc2-1146-d443efa45c0a"/>
 <plain>
-<circle x="186.79143125" y="69.84268125" radius="1.55" width="0.001" layer="20"/>
-<circle x="64.87143125" y="69.84268125" radius="1.55" width="0.001" layer="20"/>
+<circle x="186.79143125" y="71.11268125" radius="1.55" width="0.001" layer="20"/>
+<circle x="64.87143125" y="71.11268125" radius="1.55" width="0.001" layer="20"/>
 <circle x="54.71143125" y="16.50268125" radius="1.55" width="0.001" layer="20"/>
 <circle x="163.89238125" y="114.61068125" radius="3.1" width="0.001" layer="20"/>
 <circle x="194.37238125" y="114.61068125" radius="3.1" width="0.001" layer="20"/>
